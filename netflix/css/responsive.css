@@ -1,0 +1,112 @@
+@media(max-width:991px) {
+    h1 {
+        font-weight: 400;
+        font-size: 60px;
+    }
+
+    h2 {
+        font-weight: 200;
+        font-size: 35px;
+    }
+
+    h3 {
+        font-weight: 200;
+        font-size: 15px;
+    }
+
+    h4 {
+        font-size: 15px;
+        margin: 50px 0;
+    }
+
+    .container {
+        line-height: 50px;
+    }
+
+    #icon {
+        position: absolute;
+        right: 330px;
+        top: 58px;
+    }
+
+    .main {
+        margin-top: 120px;
+    }
+
+    .Email {
+        margin-left: 0;
+        height: 60px;
+        width: 320px;
+        align-self: center;
+    }
+
+    .btn2 {
+        padding: 13px 10px;
+        border-radius: 6px;
+        font-size: 28px;
+        font-weight: 400;
+        margin-left: 1px;
+        cursor: pointer;
+        background-color: red;
+        color: white;
+    }
+
+    .right {
+        flex-basis: 50%;
+        position: relative;
+        bottom: 100px;
+    }
+
+    .right video {
+        position: relative;
+        margin-left: 55px;
+        width: 66%;
+        top: 173px;
+    }
+
+    .row2 {
+        padding: 50px 0px;
+    }
+
+    .left2 img {
+        width: 300px;
+    }
+
+    .download {
+        width: 200px;
+        height: 70px;
+        margin-left: 45px;
+        bottom: 80px;
+        border: 2px solid rgb(133, 130, 130);
+    }
+    .download img{
+        margin: 5px;
+        height: 55px;
+    }
+    .download p{
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    p span{
+        font-size: 13px;
+        color: #0071eb
+    }
+    .right3 {
+        bottom: 50px;
+    }
+    .right3 video {
+        margin-left: 75px;
+        width: 56%;
+        top: 130px;
+    }
+    .footer {
+        margin-left: 150px;
+    }
+    .link-col a{
+        font-size: 15px;
+    }
+    .footer p {
+        margin: 30px 0 90px 0;
+        font-size: 18px;
+    }
+}
